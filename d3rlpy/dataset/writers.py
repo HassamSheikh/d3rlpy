@@ -54,7 +54,7 @@ class WriterPreprocessProtocol(Protocol):
 
 
 class BasicWriterPreprocess(WriterPreprocessProtocol):
-    """Stanard data writer.
+    """Standard data writer.
 
     This class implements identity preprocess.
     """
